@@ -1,5 +1,5 @@
 # n8n queue mode [modo fila]
-    Garante o uso profissional do N8N, evitando gargalo no processamento dos workflows e utilizando melhores práticas
+Garante o uso profissional do N8N, evitando gargalo no processamento dos workflows e utilizando melhores práticas
 
 - n8n modo fila
 - profissional
@@ -8,7 +8,7 @@
 
 
 # Postgres
-    Armazena todos os dados e processo da sua automação
+Armazena todos os dados e processo da sua automação
 
 -  escalabilidade
 - confiabilidade
@@ -16,7 +16,7 @@
 
 
 # Redis
-    Armazena o controle do processamento das cargas n8n (workers)
+Armazena o controle do processamento das cargas n8n (workers)
 
 - banco de dados
 - chave-valor
